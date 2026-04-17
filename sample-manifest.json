@@ -1,0 +1,12 @@
+{
+  "export_job_id": "8f942df8-07b8-42c3-8ec6-7118c2be681c",
+  "id_short": 405764,
+  "published_at": "2026-04-17T07:18:50Z",
+  "repo_name": "all-restaurants-in-alhambra-california-us-sample-405764",
+  "sample_asset_name": "beamstation_405764_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/405764/beamstation_405764_restaurants-us-ca_SAMPLE_DIST.csv",
+  "sample_records": 21,
+  "sample_sha256": "ff254f4ddb863fcc07af8763fcdb74f4be778ae0656aa343fc5a318e29085049",
+  "sample_size_bytes": 89776,
+  "total_records": 219
+}
