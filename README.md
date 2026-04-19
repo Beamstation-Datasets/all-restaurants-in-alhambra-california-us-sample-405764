@@ -9,9 +9,9 @@
 | Dataset ID | `405764` |
 | Location | Alhambra |
 | Category | Restaurants |
-| Full dataset size | 219 records |
-| Free sample size | 21 records (9.59%) |
-| Last export | 2026-04-09T17:01:49.395992+00:00 |
+| Full dataset size | 218 records |
+| Free sample size | 21 records (9.63%) |
+| Last export | 2026-04-16T20:14:40.624683+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-alhambra-california-us-sample-405764/releases/download/sample-latest/beamstation_405764_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
